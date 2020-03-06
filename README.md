@@ -1,5 +1,6 @@
 # Image Processing Notes
 ## Basic Knowledge
+||JPG|PNG|GIF|TIF|
 |---|---|---|---|---|
 |full name|Joint Photographic Expert Group|Portable Network Graphics|Graphics Interchange Format|Tagged Image File Format
 |😃|Versatile, small file size|Versatile, supports transparency|Small file size, allows for animation|Highest quality
