@@ -10,5 +10,5 @@
 ## New Thoughts
 
 ###### Patterns & Typography
-now: must upload images to somewhere and get URL -> use in the URL query
+now: must upload images to somewhere and get URL -> use in the URL query  
 I want: use SVG info in the query
